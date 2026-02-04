@@ -17,8 +17,8 @@ export default function Home() {
           Gather deep qualitative research through interviews fast.
         </h1>
         <h2 className="max-w-xl text-base font-semibold leading-tight tracking-tight text-zinc-900 dark:text-zinc-50 text-pretty">
-          The tools you need to design, conduct, and analyze your own AI-run
-          interviews rapidly and at scale.
+          The building blocks you need to design, conduct, and analyze your own
+          AI-run interviews rapidly and at scale.
         </h2>
         <p className="max-w-xl text-sm text-zinc-500 dark:text-zinc-50 text-pretty">
           Coming soon: APIs, SDKs, MCPs, Editors, and more.
