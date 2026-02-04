@@ -5,6 +5,9 @@ export default function Home() {
   return (
     <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-12 px-16 sm:py-32 bg-white dark:bg-black sm:items-start">
       <div className="flex flex-col gap-2 items-start text-left">
+        <div className=" border border-zinc-200 dark:border-zinc-800 rounded-full px-2 py-1 text-sm text-zinc-500 dark:text-zinc-50 text-pretty mb-6">
+          Invite-only beta
+        </div>
         <Image
           className="dark:invert w-[150px] h-[28px] sm:w-[200px] sm:h-[40px]"
           src="/debriefer.svg"
